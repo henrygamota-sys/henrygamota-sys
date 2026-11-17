@@ -1,6 +1,6 @@
 # Henry Motta
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá me chamo Henry Gabriel Motta, tenho 18 anos e sou natural do Blumenau. Atualmente, estou cursando Ciência da Computação na FURB. Sou louco por tecnologia e estou em fase de aprendizado.
 
